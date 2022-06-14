@@ -3,8 +3,10 @@
 <h3>✉️ Контакты:</h3>
 e-mail: sn.mail@mail.ru</br>
 Telegram: https://t.me/Alexander_Novo</br>
+&nbsp;
+&nbsp;
  
-💻 Я - Frontend разработчик, занимаюсь версткой (HTML + CSS), придерживаюсь БЭМ-методологии, программирую на JavaScript.
+💻 Я - Frontend разработчик, занимаюсь версткой (HTML + CSS), программирую на JavaScript, придерживаюсь БЭМ-методологии.
 Прохожу обучение в Яндекс.Практикуме, на текущий момент пройдены и подтверждены успешно сданными проектными работами темы:
 - HTML5
 - CSS3
@@ -86,7 +88,6 @@ Telegram: https://t.me/Alexander_Novo</br>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![BEM](https://img.shields.io/badge/-BEM-05122A?style=flat&logo=BEM)&nbsp;
-![OOP](https://img.shields.io/badge/-ООП-05122A?style=flat&logo=StackShare&logoColor=green)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 #### Ссылка на репозиторий: https://github.com/Alexander-Nov/russian-travel</br>
