@@ -52,7 +52,7 @@ Telegram: https://t.me/Alexander_Novo</br>
 Профиль на CodeWars
 <img src="https://www.codewars.com/users/Novoboss/badges/small">
 
-## Текущие проекты:
+## Текущие выполненные проекты:
 
 
 ### ✔️ Проект: Mesto Russia
