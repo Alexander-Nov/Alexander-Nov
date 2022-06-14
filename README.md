@@ -1,7 +1,7 @@
 <h1>👋 Привет, меня зовут Александр Новоселов</h1>
  
 💻 Я - Frontend разработчик, занимаюсь версткой (HTML + CSS), придерживаюсь БЭМ-методологии, программирую на JavaScript.
-Прохожу обучение в Яндекс.Практикуме, за период с января по июнь освоил и упорядочил ранее имеющиеся знания по темам:
+Прохожу обучение в Яндекс.Практикуме, на текущий момент пройдены и подтверждены успешно сданными проектными работами темы:
 - HTML5
 - CSS3
 - Flexbox верстка
@@ -16,10 +16,10 @@
 - JavaScript - циклы, функции, массивы, работа с DOM, template-элементы, работа с примитивными типами данных, объекты, управление по событиям слушателей, валидация форм, ООП (классы, методы, инкапсуляция, наследование, полиморфизм);
 - продвинутый JavaScript (ООП, работа с API, запросы FETCH, PUT, GET, ассинхронность, promise);
 - сборка проекта Webpack, транспиляция JS;
-- Git (GitHub, GitHub Pages);
+- Git/GitHub/GitHub Pages;
 - верстка PixelPerfect.
 
-<h3>Стек:</h3>
+### Стек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -36,7 +36,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)&nbsp;
 ![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=Confluence)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira Software-05122A?style=flat&logo=Jira Software)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira_Software-05122A?style=flat&logo='Jira_Software')&nbsp;
 
 
 
