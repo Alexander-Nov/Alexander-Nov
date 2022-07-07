@@ -10,20 +10,17 @@ Telegram: https://t.me/Alexander_Novo</br>
 Прохожу обучение в Яндекс.Практикуме, на текущий момент пройдены и подтверждены успешно сданными проектными работами темы:
 - HTML5
 - CSS3
-- Flexbox верстка
-- Grid верстка
+- React
+- JavaScript - циклы, функции, массивы, работа с DOM, template-элементы, работа с примитивными типами данных, объекты, управление по событиям слушателей, валидация форм, ООП (классы, методы, инкапсуляция, наследование, полиморфизм), работа с API, запросы FETCH, ассинхронность, promise)
+- сборка проекта Webpack, транспиляция JS
+- Git/GitHub/GitHub Pages
+- Flexbox/Grid верстка
+- кроссбраузерная и адаптивная верстка (медиазапросы)
+- верстка PixelPerfect
 - БЭМ методология
-- относительное/абсолютное/фиксированное позиционирование
-- использование z-index;
-- использование тегов iframe, video, audio;
-- анимация: transition, transform, @keyframes;
-- формы (input, checkbox, radio);
-- кроссбраузерная и адаптивная верстка (медиазапросы);
-- JavaScript - циклы, функции, массивы, работа с DOM, template-элементы, работа с примитивными типами данных, объекты, управление по событиям слушателей, валидация форм, ООП (классы, методы, инкапсуляция, наследование, полиморфизм);
-- продвинутый JavaScript (ООП, работа с API, запросы FETCH, PUT, GET, ассинхронность, promise);
-- сборка проекта Webpack, транспиляция JS;
-- Git/GitHub/GitHub Pages;
-- верстка PixelPerfect.
+- использование тегов iframe, video, audio
+- анимация: transition, transform, @keyframes
+- формы (input, checkbox, radio)
 
 ### Стек:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -53,6 +50,31 @@ Telegram: https://t.me/Alexander_Novo</br>
 <img src="https://www.codewars.com/users/Novoboss/badges/small">
 
 ## Текущие выполненные проекты:
+
+
+### ✔️ Проект: Mesto Russia (React)
+![image](https://user-images.githubusercontent.com/97363077/177821349-606d051c-2ae1-4440-be20-0a23b9c1f6d4.png)
+
+Проект по функционалу аналогичен более раннему проекту Mesto, но создан на React.
+Для отельных элементов интерфейса страницы раработаны функциональные компоненты.
+Проект дает возможность менять данные и аватар пользователя, добавлять и удалять свои фото, ставить/удалять лайки на любое фото. Для улучшения UI добавлен функционал, отображающий соответствующие надписи на кнопках в момент обмена информацией с сервером. Кроме того добавлено всплывающее окно с дополнительным подтверждением удаления карточки.
+
+#### Стек технологий: 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)&nbsp;
+![BEM](https://img.shields.io/badge/-BEM-05122A?style=flat&logo=BEM)&nbsp;
+![OOP](https://img.shields.io/badge/-ООП-05122A?style=flat&logo=StackShare&logoColor=green)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=Webpack)&nbsp;
+
+
+#### Ссылка на репозиторий: https://github.com/Alexander-Nov/mesto-react
+&nbsp;
+&nbsp;
 
 
 ### ✔️ Проект: Mesto Russia
