@@ -51,6 +51,25 @@ Telegram: https://t.me/Alexander_Novo</br>
 
 ## Текущие выполненные проекты:
 
+### ✔️ Проект: To-Do Demo (React)
+<img src="https://user-images.githubusercontent.com/97363077/178458775-f35b6785-b097-420d-92b8-fe6a216c016b.png" width="600">
+
+Проект создан для отработки навыков программирования на JavaScript с использованием библиотеки React.
+Функционал приложения загружает стартовые демонстрационные задачи из файла initial.js и позволяет добавлять новые задачи, редактировать активные задачи, отмечать их выполненными, удалять из списка.
+
+#### Стек технологий: 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
+#### Ссылка на репозиторий: https://github.com/Alexander-Nov/react-to-do
+&nbsp;
+&nbsp;
+
 
 ### ✔️ Проект: Mesto Russia (React)
 ![image](https://user-images.githubusercontent.com/97363077/177821349-606d051c-2ae1-4440-be20-0a23b9c1f6d4.png)
