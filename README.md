@@ -67,6 +67,7 @@ Telegram: https://t.me/Alexander_Novo</br>
 
 
 #### Ссылка на репозиторий: https://github.com/Alexander-Nov/react-to-do
+#### Ссылка на github pages: https://alexander-nov.github.io/react-to-do/
 &nbsp;
 &nbsp;
 
