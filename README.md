@@ -22,6 +22,8 @@ Telegram: https://t.me/Alexander_Novo</br>
 - анимация: transition, transform, @keyframes
 - формы (input, checkbox, radio)
 
+👨‍🎓 Продолжаю изучать React/Redux, начал изучение основ Backend'а.
+
 ### Стек:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -42,12 +44,10 @@ Telegram: https://t.me/Alexander_Novo</br>
 ![Jira](https://img.shields.io/badge/-Jira_Software-05122A?style=flat&logo='Jira_Software')&nbsp;
 
 
-
-👨‍🎓 Продолжаю изучать React, следующим этапом будет изучение основ Backend'а.
-
-
 Профиль на CodeWars
 <img src="https://www.codewars.com/users/Novoboss/badges/small">
+
+
 
 ## Текущие выполненные проекты:
 
