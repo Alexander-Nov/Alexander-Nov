@@ -51,6 +51,46 @@ Telegram: https://t.me/Alexander_Novo</br>
 
 ## Текущие выполненные проекты:
 
+### ✔️ Проект: Mesto Russia API Full (React) + backend (Node.js/Express/MongoDB)
+![image](https://user-images.githubusercontent.com/97363077/190112441-ec8dca17-e5a5-435a-8448-c3808b54bdf5.png)
+
+
+Проект демонстрирует функционал соц.сети, предоставляющей возможность зарегистрированным пользователям делиться своими фотографиями, ставить/удалять лайки, удалять свои карточки, редактировать данные своего профиля.
+Frontend создан с использованием фреймворка React, backend построен на Node.js/Express/MongoDB/pm2/Nginx.
+
+Функционал приложения позволяет пользователю произвести регистрацию, авторизоваться с использованием указанных ранее email и пароля. Для повышения безопасности приложения используется хранение хэша пароля, в чистом виде пароль в БД не хранится. После авторизации серверная часть высылает токен, который сохраняется приложением в local storage. Без авторизации доступно только два роута: /sign-up и /sign-in. Остальные роуты защищены от несанкционированного доступа и недоступны без авторизации. 
+
+После авторизации пользователь может:
+
+- изменить свои данные, присвоенные сервером по умолчанию (имя, описание "о себе", ссылка на аватар),
+- поставить/удалить лайк на любую из имеющихся на странице фотографий,
+- добавить свои фотографии, дав им краткие названия,
+- удалить любую из своих фотографий (фотографии других пользователей удалить невозможно).
+
+Данные, которые вводит в поля форм пользователь при выполнении вышеперечисленных задач, валидируются на сервере с использованием модуля validator в схемах модели mongoose и Joi/celebrate в роутах.
+Для улучшения UI добавлен функционал, отображающий соответствующие надписи на кнопках в момент обмена информацией с сервером, добавлено всплывающее окно с дополнительным подтверждением удаления карточки.
+
+#### Стек технологий: 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=339933)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=47A248)&nbsp;
+![Nginx](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX&logoColor=009639)&nbsp;
+![PM2](https://img.shields.io/badge/-PM2-05122A?style=flat&logo=PM2&logoColor=2B037A)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
+#### Ссылка на репозиторий: https://github.com/Alexander-Nov/react-mesto-api-full
+#### Ссылка на сайт: https://novoselov.nomorepartiesxyz.ru/
+&nbsp;
+&nbsp;
+
+
 ### ✔️ Проект: To-Do Demo (React)
 <img src="https://user-images.githubusercontent.com/97363077/178458775-f35b6785-b097-420d-92b8-fe6a216c016b.png" width="600">
 
