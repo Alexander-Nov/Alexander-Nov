@@ -32,6 +32,11 @@ Telegram: https://t.me/Alexander_Novo</br>
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)&nbsp;
 ![BEM](https://img.shields.io/badge/-BEM-05122A?style=flat&logo=BEM)&nbsp;
 ![OOP](https://img.shields.io/badge/-ООП-05122A?style=flat&logo=StackShare&logoColor=green)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=339933)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=47A248)&nbsp;
+![Nginx](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX&logoColor=009639)&nbsp;
+![PM2](https://img.shields.io/badge/-PM2-05122A?style=flat&logo=PM2&logoColor=2B037A)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=Webpack)&nbsp;
